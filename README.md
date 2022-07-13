@@ -1,4 +1,4 @@
-# CovidAnalysis
+# Global Covid Vaccination and Death Analysis
 
 Author: Ali Shalaby
 
